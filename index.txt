@@ -1,9 +1,3 @@
-Title: MultiMarkdown-based CMS
-Tags:
+This is the test page for Ashreil.
 
-This is the default page for the MultiMarkdown-based Content Management
-System...
-
-Learn more at <http://fletcherpenney.net/multimarkdown/cms/>.
-
-<!--#include virtual="cgi/latest_stories.cgi" -->
+The Link to the sites are [here]
