@@ -1,6 +1,7 @@
 # Jekyll
-permalink: /:2015/:Ash/
+permalink: /:2015/:Ashreil/
 paginate: 10
 exclude: []
-name: Ashreil
+name: Ashreil.github.io
 baseurl: 
+
