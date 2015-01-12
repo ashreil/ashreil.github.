@@ -2,6 +2,10 @@
 permalink: /:2015/:Ashreil/
 paginate: 10
 exclude: []
+<<<<<<< Local Changes
+name: ashreil
+=======
 name: Ashreil
+>>>>>>> External Changes
 baseurl: 
 
