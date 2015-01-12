@@ -1,6 +1,10 @@
 # Jekyll
-permalink: /:2015/:Ash/
+permalink: /:2015/:Ashreil/
 paginate: 10
 exclude: []
+<<<<<<< Updated upstream
 name: Ashreil.github.io
+=======
+name: ashreil.github.io
+>>>>>>> Stashed changes
 baseurl: 
